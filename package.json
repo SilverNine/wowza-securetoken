@@ -1,6 +1,6 @@
 {
   "name": "wowza-securetoken",
-  "version": "2.3.9",
+  "version": "2.5.9",
   "description": "Wowza Secure Token Generator",
   "main": "index.js",
   "directories": {
