@@ -1,5 +1,5 @@
 # Wowza Streaming Engine Secure Token Generator
-# https://www.npmjs.com/package/wowza-securetoken
+https://www.npmjs.com/package/wowza-securetoken
 
 ### Parameters
 ```javascript
