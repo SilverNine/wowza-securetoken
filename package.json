@@ -1,0 +1,32 @@
+{
+  "name": "wowza-securetoken",
+  "version": "1.1.0",
+  "description": "Wowza Secure Token Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "dependencies": {
+    "crypto": "~0.0.3",
+    "locutus": "~2.0.6"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "wowza",
+    "secure",
+    "token",
+    "securetoken"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SilverNine/wowza-securetoken.git"
+  },
+  "author": "Eungoo Jung <akasilvernine@gmail.com>",
+  "license": "MIT"
+}
