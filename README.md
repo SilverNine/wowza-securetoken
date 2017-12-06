@@ -18,6 +18,7 @@ wowza.urlGenerate({
 ```javascript
 {
   'http': 'http://127.0.0.1/vod/_definst_/mp4:path/test.mp4/playlist.m3u8?wowzatokenstarttime=1480653131&wowzatokenendtime=1483245131&wowzatokenhash=5n3vTSGnlNKqkLCcfM9hX_KaksPIAykMo9P1SlaR2P8=',
+  'https': 'https://127.0.0.1:443/vod/_definst_/mp4:path/test.mp4/playlist.m3u8?wowzatokenstarttime=1480653131&wowzatokenendtime=1483245131&wowzatokenhash=5n3vTSGnlNKqkLCcfM9hX_KaksPIAykMo9P1SlaR2P8=',
   'rtmp': 'rtmp://127.0.0.1/test/myStream?wowzatokenstart_time=1461322012789&wowzatokenend_time=1461322012789&wowzatokenhash=5ryZOaf8XQHMQt3_BeP_YZ0ftH6pOPKN3yNvRU6T438KqkWqcPBAllpq52OBvWdYmuoWFltVYVLJTErJNbtHyQ=='
 }
 ```
